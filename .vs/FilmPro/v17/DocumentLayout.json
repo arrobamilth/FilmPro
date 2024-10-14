@@ -1,17 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\",
+  "WorkspaceRootPath": "C:\\Users\\mateo\\Downloads\\Nia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\source\\repos\\filmpro\\filmpro\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\source\\repos\\filmpro\\filmpro\\maestro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\maestro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\maestro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\asustuf\\source\\repos\\filmpro\\filmpro\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\maestro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\maestro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|c:\\users\\mateo\\downloads\\nia\\filmpro\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{47D6BE40-83FF-4FFF-91A7-58B3AA75DBC3}|FilmPro\\FilmPro.csproj|solutionrelative:filmpro\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,12 +57,93 @@
               "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "FilmPro\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page2.xaml.cs",
+              "RelativeToolTip": "FilmPro\\Page2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:28:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "FilmPro\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page1.xaml.cs",
+              "RelativeToolTip": "FilmPro\\Page1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:28:19.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page1.xaml",
+              "RelativeDocumentMoniker": "FilmPro\\Page1.xaml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page1.xaml",
+              "RelativeToolTip": "FilmPro\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T21:18:37.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page2.xaml",
+              "RelativeDocumentMoniker": "FilmPro\\Page2.xaml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Page2.xaml",
+              "RelativeToolTip": "FilmPro\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-14T21:18:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Maestro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Maestro.xaml.cs",
+              "RelativeDocumentMoniker": "FilmPro\\Maestro.xaml.cs",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Maestro.xaml.cs",
+              "RelativeToolTip": "FilmPro\\Maestro.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:15:34.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Menu.xaml",
-              "DocumentMoniker": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\Menu.xaml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Menu.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Menu.xaml",
-              "ToolTip": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\Menu.xaml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Menu.xaml",
               "RelativeToolTip": "FilmPro\\Menu.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -51,23 +152,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Maestro.xaml",
-              "DocumentMoniker": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\Maestro.xaml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Maestro.xaml",
               "RelativeDocumentMoniker": "FilmPro\\Maestro.xaml",
-              "ToolTip": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\Maestro.xaml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\Maestro.xaml",
               "RelativeToolTip": "FilmPro\\Maestro.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-14T15:52:14.235Z"
+              "WhenOpened": "2024-10-14T15:52:14.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\AppShell.xaml",
               "RelativeDocumentMoniker": "FilmPro\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\AsusTUF\\source\\repos\\FilmPro\\FilmPro\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mateo\\Downloads\\Nia\\FilmPro\\AppShell.xaml",
               "RelativeToolTip": "FilmPro\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
